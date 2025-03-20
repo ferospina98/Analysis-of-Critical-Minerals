@@ -3,6 +3,8 @@ This project analyzes critical mineral demand, supply risks, and geopolitical de
 
 Analysis of Critical Minerals Demand, Supply Risks, and Geopolitical Dependencies
 
+NOTE: the ipynb file exceeds Github's size limit, so I've uploaded as a zip file.
+
 ## Overview
 This project aims to analyze historical trends and future projections of critical mineral production, trade flows, and demand growth. It explores supply risks, price volatility, and geopolitical dependencies to provide strategic insights for policymakers, industries, and investors.
 
