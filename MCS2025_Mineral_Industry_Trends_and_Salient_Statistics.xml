@@ -1,0 +1,1666 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Minerals Information Center</origin>
+        <pubdate>20250131</pubdate>
+        <title>Mineral Commodity Summaries 2025 - MINERAL INDUSTRY TRENDS AND SALIENT STATISTICS Data Release</title>
+        <geoform>tabular digital data</geoform>
+        <onlink>https://doi.org/10.5066/P13XCP3R</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>National Minerals Information Center</origin>
+            <pubdate>20250131</pubdate>
+            <title>Mineral Commodity Summaries 2025 Data Release</title>
+            <geoform>tabular digital data</geoform>
+            <onlink>https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data release contains the U.S. salient statistics and world production data extracted from the tables and figures of the USGS Mineral Commodity Summaries 2025 that give an overview of the U.S. mineral industry in 2024.</abstract>
+      <purpose>Published on an annual basis, the USGS Mineral Commodity Summaries report is the earliest Government publication to furnish estimates covering nonfuel mineral industry data. Data sheets contain information on the domestic industry structure, Government programs, tariffs, and 5-year salient statistics for over 90 individual minerals and materials.</purpose>
+      <supplinf>Where possible, data are those finalized for publication in the 2023 U.S. Geological Survey Minerals Yearbook Volume I - Metals and Minerals. For 2024, USGS National Minerals Information Center provided estimates based on available data from USGS surveys of the industry, other industry sources, and mineral commodity specialist research.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2020</begdate>
+          <enddate>2024</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-170.0000</westbc>
+        <eastbc>-65.0000</eastbc>
+        <northbc>72.0000</northbc>
+        <southbc>20.0000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>economy</themekey>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>business and economics</themekey>
+        <themekey>materials flow (commodities)</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, National Minerals Information Center</cntorg>
+          <cntper>Elizabeth Sangine</cntper>
+        </cntorgp>
+        <cntpos>Chief Mineral Commodities</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Mail Stop 989, 12201 Sunrise Valley Dr</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>703-648-7720</cntvoice>
+        <cntfax>703-648-7757</cntfax>
+        <cntemail>escottsangine@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>National Minerals Infomation Center</origin>
+        <pubdate>2024</pubdate>
+        <title>USGS National Minerals Information Center Web Page</title>
+        <geoform>application/service</geoform>
+        <othercit>Provides information and links to all available USGS National Minerals Information Center publications by commodity and by geographic area.</othercit>
+        <onlink>https://www.usgs.gov/centers/national-minerals-information-center</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Where possible, data for all years except 2024 have been finalized for publication in the U.S. Geological Survey Minerals Yearbook Volume I - Metals and Minerals; otherwise the data are noted as estimated.</attraccr>
+    </attracc>
+    <logic>Data were checked to ensure that they match those published in the Mineral Commodity Summaries 2025. Data were peer reviewed by Mineral Commodity Specialists and approved by supervisors in compliance with USGS fundamental science practices.</logic>
+    <complete>This data release contains tabular data found in the associated publication Mineral Commodity Summaries 2025 (MCS 2025); additional detailed information is available in the full text version of MCS 2025.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Minerals Information Center</origin>
+            <pubdate>2023</pubdate>
+            <title>USGS Minerals Yearbook Volume I - Metals and Minerals</title>
+            <edition>2023</edition>
+            <geoform>publication</geoform>
+            <onlink>https://www.usgs.gov/centers/national-minerals-information-center/minerals-yearbook-metals-and-minerals</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2020</begdate>
+              <enddate>2023</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MYB Vol I</srccitea>
+        <srccontr>Source of salient statistics for 2020 through 2023 and basis for estimates for 2024. The data in the Minerals Yearbook are based on USGS surveys sent to companies involved in the industry for each mineral commodity.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Census Bureau</origin>
+            <pubdate>2023</pubdate>
+            <title>USA Trade Online</title>
+            <geoform>tabular digital data</geoform>
+            <onlink>https://usatrade.census.gov/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2019</begdate>
+              <enddate>2023</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USDOC_Census</srccitea>
+        <srccontr>trade statistics for 2018 through 2021 and basis of trade statistics estimates for 2023</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Energy</origin>
+            <pubdate>2023</pubdate>
+            <title>Coal Data</title>
+            <geoform>tabular digital data</geoform>
+            <onlink>https://www.eia.gov/coal/data.php</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2019</begdate>
+              <enddate>2023</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USDOE</srccitea>
+        <srccontr>Economic data about coal</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Labor</origin>
+            <pubdate>2023</pubdate>
+            <title>Major Economic Indicators</title>
+            <geoform>tabular digital data</geoform>
+            <onlink>https://www.bls.gov/bls/newsrels.htm#major</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2019</begdate>
+              <enddate>2023</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USDOL</srccitea>
+        <srccontr>Data on employment and wages in mineral-related industries</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Federal Reserve Board</origin>
+            <pubdate>20231215</pubdate>
+            <title>Industrial Production and Capacity Utilization - G.17</title>
+            <geoform>tabular digital data</geoform>
+            <onlink>https://www.federalreserve.gov/releases/g17/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2019</begdate>
+              <enddate>2023</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USFRB</srccitea>
+        <srccontr>Capacity utilization and industrial production indexes related to the mining and minderal processing industries.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S Department of Commerce</origin>
+            <pubdate>2024</pubdate>
+            <title>National Economic Accounts</title>
+            <geoform>tabular digital data</geoform>
+            <onlink>https://www.bea.gov/data/economic-accounts/national</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2024</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USDOC_BEA</srccitea>
+        <srccontr>U.S. gross domestic product and contributions by mineral-related industries.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Salient statistics for each mineral commodity were compiled from published 2023 U.S. Geological Survey Minerals Yearbook Volume I - Metals and Minerals chapters or from finalized tables of those to be published. Data for 2024 were estimated based on available 2023 data and industry trends. Economic data were compiled from various other Federal agencies that are relevant to the U.S. mineral mining and processing industries in relation to the total U.S economy. These data were published in tables and figures accompanying the text of the Mineral Commodity Summaries 2025 overview section. Data from the most current available 2024 economic releases were used as a basis for estimates for the year 2024 made by U.S Geological Survey mineral industry specialists.</procdesc>
+        <srcused>MYB Vol I</srcused>
+        <srcused>USFRB</srcused>
+        <srcused>USDOE</srcused>
+        <srcused>USDOL</srcused>
+        <srcused>USDOC_BEA</srcused>
+        <srcused>USDOC_Census</srcused>
+        <procdate>2024</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_T1_Mineral_Industry_Trends.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>Year for which the data were compiled</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>2024_estimated</edomv>
+  <edomvd>The estimate for 2023</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>2020</rdommin>
+            <rdommax>2024</rdommax>
+            <attrunit>Year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mine_Production_Metals_mil_dols</attrlabl>
+        <attrdef>Total mine production (million dollars): Metals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>million dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mine_Production_Industrial_mil_dols</attrlabl>
+        <attrdef>Total mine production (million dollars): Industrial minerals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>million dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mine_Production_Coal_mil_dols</attrlabl>
+        <attrdef>Total mine production (million dollars): Coal</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>million dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Employment_All_Coal_thsnds</attrlabl>
+        <attrdef>Employment (thousands of workers): Coal mining, all employees</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>thousands of workers</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Employment_All_Nonfuel_thsnds</attrlabl>
+        <attrdef>Employment (thousands of workers): Nonfuel mineral mining, all employees</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>thousand workers</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Employment_Chemicals_thsnds</attrlabl>
+        <attrdef>Employment (thousands of workers): Chemicals and allied products, production workers</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>thousand workers</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Employment_Stone_Clay_Glass_thsnds</attrlabl>
+        <attrdef>Employment (thousands of workers): Stone, clay, and glass products, production workers</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>thousands of workers</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Employment_Primary_Metal_thsnds</attrlabl>
+        <attrdef>Employment (thousands of workers): Primary metal industries, production workers</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>thousand workers</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Avg_Weekly_Earnings_All_Coal_dols</attrlabl>
+        <attrdef>Average weekly earnings of workers (dollars): Coal mining, all employees</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Avg_Weekly_Earnings_dols</attrlabl>
+        <attrdef>Average weekly earnings of workers (dollars): Chemicals and allied products, production workers</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Avg_Weekly_Earnings_Stone_Clay_Glass_dols</attrlabl>
+        <attrdef>Average weekly earnings of workers (dollars): Stone, clay, and glass products, production workers</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Avg_Weekly_Earnings_Primary_Metal_dols</attrlabl>
+        <attrdef>Average weekly earnings of workers (dollars): Primary metal industries, production workers</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_T2_Mineral_Economic_Trends.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication containing the data</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>Year for which the data were compiled</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>2024_estimated</edomv>
+  <edomvd>estimate for year 2024</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>2020</rdommin>
+            <rdommax>2024</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GDP_bil_dols</attrlabl>
+        <attrdef>Gross domestic product (billion dollars)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>billion dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Total_Indust_Production_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Manufacturing_All_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Manufacturing</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Manufacturing_NonMetallic_Mineral_Products_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Manufacturing: Nonmetallic mineral products</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Manufacturing_Primary_Metals_All_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Manufacturing: Primary metals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>10000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Manufacturing_Iron_Steel_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Manufacturing: Primary metals: Iron and steel</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Manufacturing_Aluminum_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Manufacturing: Primary metals: Aluminum</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Manufacturing_Nonferrous_NonAl_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Manufacturing: Nonferrous metals (except aluminum)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Manufacturing_Chemicals_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Manufacturing: Chemicals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Total_Mining_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Mining</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Mining_Coal_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Mining: Coal</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Mining_Oil_Gas_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Mining: Oil and gas extraction</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Mining_Metals_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Mining: Metals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index_Mining_Nonmetallic_base_2017</attrlabl>
+        <attrdef>Industrial production (2017=100): Total index: Mining: Nonmetallic minerals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>201</rdommin>
+            <rdommax>1000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Capacity_Utilization_Total_Industry_pct</attrlabl>
+        <attrdef>Capacity utilization (percent): Total industry</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Capacity_Utilization_Mining_All_pct</attrlabl>
+        <attrdef>Capacity utilization (percent): Mining</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Capacity_Utilization_Mining_Metals_pct</attrlabl>
+        <attrdef>Capacity utilization (percent): Mining: Metals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Capacity_Utilization_Mining_Nonmetallic_pct</attrlabl>
+        <attrdef>Capacity utilization (percent): Mining: Nonmetallic minerals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Housing_Starts_thsnds</attrlabl>
+        <attrdef>Housing starts (thousands)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Light_Vehicle_Sales_thsnds</attrlabl>
+        <attrdef>Light vehicle sales (thousands)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Highway_Construction_Value_bil_dols</attrlabl>
+        <attrdef>Highway construction, value, put in place (billion dollars)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100000</rdommax>
+            <attrunit>billion dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_T3_State_Value_Rank.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>Year</attrlabl><attrdef>Year for which the data were compiled</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>2024_estimated</edomv>
+      <edomvd>2024 estimate; data are preliminary</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>State</attrlabl>
+        <attrdef>State Name</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>State_Notes</attrlabl>
+        <attrdef>Notes about the value attributed to the State, particularly if is a partial value because some mineral commodity production had to be included in the undistributed category</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Text describing data accuracy/completeness - in some states there is a partial total because of withheld data</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value _millions_prelim_2023</attrlabl>
+        <attrdef>Value of nonfuel mineral production attributed to the State or the total of all States</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>million dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>State_Rank_prelim_2023</attrlabl>
+        <attrdef>Rank based on total, unadjusted, State values.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>XX</edomv>
+  <edomvd>Not applicable</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>50</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>State_percent_total_prelim</attrlabl>
+        <attrdef>The State's nonfuel mineral production value as a percentage of the total nonfuel mineral production including the undistribuited category which was not attributed to any State</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100.0</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Principal_commodities</attrlabl>
+        <attrdef>The leading five mineral commodities, by production value,  produced in the State,  arranged in alphabetical order</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>Commodity Statistics and Information Index page</codesetn>
+            <codesets>USGS National Minerals Information Center</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_T4_Critical_Minerals_End_Use.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data. The critical minerals listed are in the the 2022 Final List of Critical Minerals published February 24, 2022, by the U.S. Geological Survey (87 FR 10381).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Critical Mineral</attrlabl>
+        <attrdef>A mineral commodity that the United States is reliant on other countries to supply and for which supply chain disruption could cause a shortage of raw materials used in essential products. Not all critical minerals are listed here. Cesium, hafnium,iridium, rhodium, rubidium, and ruthenium are not shown because there is not enough information available regarding U.S. or world production.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>US.S. Critical Minerals List</codesetn>
+            <codesets>Federal Register p.10381-10382 (87 FR 10381)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Primary_Applications</attrlabl>
+        <attrdef>Major end uses for the critical minerals</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Free text - listing major end uses for the critical minerals</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Category_Note</attrlabl>
+        <attrdef>Notes about the critical mineral</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Whether the critical mineral is part of a group usually classified together, such as rare earths and platinum group metals</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_T5_Critical_Minerals_Salient.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data. Note: Critical minerals as published in the Federal Register on February 24, 2022 (87 FR 10381). Not all critical minerals are listed here. Cesium, hafnium, iridium, rhodium, rubidium, and ruthenium are not shown because
+available information was inadequate to make estimates of U.S. or world production.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>Year for which the data were compiled</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>2019</rdommin>
+            <rdommax>2024</rdommax>
+            <attrunit>Year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Critical_mineral</attrlabl>
+        <attrdef>A mineral commodity that the United States is reliant on other countries to supply and for which supply chain disruption could cause a shortage of raw materials used in essential products. Not all critical minerals are listed here. Cesium, hafnium,iridium, rhodium, rubidium, and ruthenium are not shown because there is not enough information available regarding U.S. or world production.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>U.S Critical Minerals List</codesetn>
+            <codesets>sourced U.S. Geological Survey, as published in the Federal Register p.10381-10382 (87 FR 10381)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Primary_prod</attrlabl>
+        <attrdef>Primary production. Primary production includes both primary and secondary metal production for Zinc.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>W</edomv>
+  <edomvd>Withheld to avoid disclosing company proprietary data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>metric tons</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Secondary_prod</attrlabl>
+        <attrdef>Secondary, or recycled, production</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>Not available</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1000000000</rdommax>
+            <attrunit>metric tons</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Prod_notes</attrlabl>
+        <attrdef>production data about the production data if any</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>production data about the production data if any</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Apparent_Consumption</attrlabl>
+        <attrdef>Apparent Consumption.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>metric tons</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comsumption_Notes</attrlabl>
+        <attrdef>notes about the  apparent consumption, such as whether it is actually reported</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>notes about the  apparent consumption, such as whether it is actually reported</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Net_Import_Reliance</attrlabl>
+        <attrdef>Imports minus exports</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percentage of metric tons</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Primary_import_source</attrlabl>
+        <attrdef>The country from which most imports are sourced, determined by averaging data from 2019 to 2022</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>Common Geographic Names</codesetn>
+            <codesets>Geopolitical Entities, Names, and Codes (GENC) Standard</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Import_source_notes</attrlabl>
+        <attrdef>notes about imports, if any.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Geopolitical Entities, Names, and Codes (GENC) Standard</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Leading_source_country</attrlabl>
+        <attrdef>The leading country in the world in production of the critical mineral in terms of quantity</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>Not available</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><codesetd>
+            <codesetn>Common geographic names</codesetn>
+            <codesets>Entities, Names, and Codes (GENC) Standard</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Leading_country_prod</attrlabl>
+        <attrdef>Quantity of the critical mineral produced by the leading country</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100000000</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>World_total_prod</attrlabl>
+        <attrdef>Total production of all countries</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1000000000</rdommax>
+            <attrunit>metric tons</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>World_prod_notes</attrlabl>
+        <attrdef>notes about world production, if any</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>notes about world production, if any</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Leading_source_precent_world</attrlabl>
+        <attrdef>percent of tonnage produced by the leading country compared to the world</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig1_Minerals_in_Economy.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data. Note: Major consuming industries of processed mineral materials are construction, durable goods manufacturers, and
+some nondurable goods manufacturers. The value of shipments for processed mineral materials cannot be
+directly related to gross domestic product.
+U.S. Economy
+Gross Domestic Product:
+$27,356 billion</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication containing the data</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>Year for which the data were compiled</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1996_estimated</rdommin>
+            <rdommax>3000_estimated</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Nonfuel_Mineral_Economic_Inputs</attrlabl><attrdef>The category to which the value can be attributed as a component of the economy, such as imports, exports, and so on.</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Mineral Raw Materials: Net Exports</edomv>
+      <edomvd>Mineral Raw Materials: Net Exports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Mineral Raw Materials: Exports</edomv>
+      <edomvd>Mineral Raw Materials: Exports</edomvd>
+      <edomvds>Producer defined.</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Mineral Raw Materials: Imports</edomv>
+      <edomvd>Mineral Raw Materials: Imports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Domestically Mined Mineral Raw Materials</edomv>
+      <edomvd>Domestically Mined Mineral Raw Materials</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Domestically Recycled Metals and Mineral Products - Old Scrap</edomv>
+      <edomvd>Domestically Recycled Metals and Mineral Products - Old Scrap</edomvd>
+      <edomvds>U.S. Geological Survey and U.S. Department of Commerce.</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Old Scrap: Net Exports</edomv>
+      <edomvd>Old Scrap: Net Exports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Old Scrap: Exports</edomv>
+      <edomvd>Old Scrap: Exports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Old Scrap: Imports</edomv>
+      <edomvd>Old Scrap: Imports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Domestically Processed Mineral Materials: Shipments</edomv>
+      <edomvd>Domestically Processed Mineral Materials: Shipments</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Processed Mineral Materials: Net imports</edomv>
+      <edomvd>Processed Mineral Materials: Net imports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Processed Mineral Materials: Imports</edomv>
+      <edomvd>Processed Mineral Materials: Imports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Processed Mineral Materials: Exports</edomv>
+      <edomvd>Processed Mineral Materials: Exports</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Value Added to Gross Domestic Product by Major Industries That Consume Processed Mineral Materials</edomv>
+      <edomvd>Value Added to Gross Domestic Product by Major Industries That Consume Processed Mineral Materials</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>U.S. Economy Gross Domestic Product</edomv>
+      <edomvd>U.S. Economy Gross Domestic Product</edomvd>
+      <edomvds>U.S. Department of Commerce</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Value_billion_dollars</attrlabl>
+        <attrdef>Estimated value in billion dollars</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100000</rdommax>
+            <attrunit>billion dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Category_example</attrlabl>
+        <attrdef>Example materials found in the commodity category,</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>examples of definitions of economic category, such as raw materials or old scrap and which commodities can be placed in that category.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Category_Note</attrlabl>
+        <attrdef>Information to give additional context</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Text to provide additional information</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig2_Net_Import_Reliance.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.Note: Not all mineral commodities covered in this publication are listed here. Those not shown include mineral commodities for which the United States was a net exporter (abrasives,
+metallic; beryllium; boron; cadmium; clays; diatomite; gold; helium; iron and steel scrap; iron ore; kyanite; molybdenum; rare earths, mineral concentrates; sand and gravel,
+industrial; soda ash; titanium dioxide pigment; wollastonite; zeolites; and zinc, ores and concentrates) or less than 20% net import reliant (gypsum; iron and steel; iron and steel
+slag; lime; nitrogen, fixed—ammonia; phosphate rock; pumice and pumicite; sand and gravel, construction; stone, crushed; sulfur; and talc and pyrophyllite). For some mineral
+commodities (hafnium; mercury; quartz, high-purity and industrial cultured crystal; thallium; and thorium), available information was inadequate to calculate the exact percentage
+of import reliance.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Import_Share_Order</attrlabl>
+        <attrdef>The order in which the commodity appears int the table as published, sorted by net import reliance percent and then alphabetically. Note that some commodities have a greater than or less than sign next to the percent, in which case an exact rank determination was not possible.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Commodity</attrlabl>
+        <attrdef>Commodity for which net import reliance is being determined</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>Mineral Commodities</codesetn>
+            <codesets>USGS National Minerals Information Center</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Net_Import_Reliance_pct_2023</attrlabl>
+        <attrdef>Net import reliance as a percentage of apparent consumption, estimated</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Values are generally in a numeric range of percentages from 20 to 100 but in some cases only a minimum percentage can be determined. the categories in these cases are as follows:
+&lt;25, meaning less than 25 percent
+&gt;25, meaning more than 25 percent
+&gt;50, meaning more than 50 percent
+&gt;75, meaning more than 75 percent
+&gt;95, meaning more than 95 percent.
+</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Major_Import_Sources_2019_2022</attrlabl>
+        <attrdef>The leading countries, up to 4, from which the commodity is imported, as calculated by average imports from 2020 to 2023.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>Common Geographic Names</codesetn>
+            <codesets>Geopolitical Entities, Names, and Codes (GENC) Standard</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Notes</attrlabl>
+        <attrdef>Additional information on the import sources or commodities</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Text with notes about the commodities or the list of import sources.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig3_Major_Import_Sources.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Country</attrlabl>
+        <attrdef>Country name - of a country from which a commodity on which the United States is more than 50% reliant.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>Common Geographic Names)</codesetn>
+            <codesets>Geopolitical Entities, Names, and Codes (GENC) Standard</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Commodity_Count</attrlabl>
+        <attrdef>The number of commodities on the list of commodities that the United States is more than 50 percent reliant for that are exported from the subject country to the United States.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Map_Class</attrlabl><attrdef>The key to the map using natural breaks to make 6 groups depending on how many commodities they at least in part provide to the United States.</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>19 to 24</edomv>
+      <edomvd>map class dark red - 19 to 24 commodities.</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>13 to 18</edomv>
+      <edomvd>Map class  red  - 13 to 18 commodities.</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>7 to 12</edomv>
+      <edomvd>Map class dark orange - 7 to 12 commodities</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>4 to 6</edomv>
+      <edomvd>Map class light orange - 4 to 6 commodities.</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>1 to 3</edomv>
+      <edomvd>Map class light yellow - 1 to 3 commodities.</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig4_Value_by_Type.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>year</attrlabl><attrdef>Year to which the data pertain</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>2024_estimated</edomv>
+      <edomvd>estimate for 2024, not finalized</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>commodity_category</attrlabl><attrdef>Mineral commodity category</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Metals</edomv>
+      <edomvd>Metals</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Natural Aggregates</edomv>
+      <edomvd>Natural aggregates</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Other Industrial Minerals</edomv>
+      <edomvd>Other Industrial Minerals</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Total</edomv>
+      <edomvd>All types of mineral commodities</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>value_billion_dollars</attrlabl>
+        <attrdef>value of the mineral commodity grouping, in billions</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1000</rdommax>
+            <attrunit>billions of dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig10_Price_Growth_Rates.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data. Notes: Critical minerals as published in the Federal Register on February 24, 2022 (87 FR 10381). Not all critical minerals are listed here. Cesium, erbium, gadolinium, hafnium, holmium, lutetium, praseodymium, rubidium, samarium, thulium, and ytterbium are not shown because available information regarding prices was inadequate.  Price source is only included for those commodities that have multiple price sources in their Salient table. For those commodities with a single price source, please refer to that commodity chapter's Salient Statistics table.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Critical_mineral_priced</attrlabl>
+        <attrdef>The mineral commodity for which price data were compiled. The those in the list are on the critical minerals list, as published in the Federal Register on February 24, 2022 (87 FR 10381).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>USGS Mineral Commodities</codesetn>
+            <codesets>https://www.usgs.gov/centers/national-minerals-information-center/commodity-statistics-and-information</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PCH_2022_2023</attrlabl>
+        <attrdef>Estimated percentage price change between 2023 and 2024.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>-200</rdommin>
+            <rdommax>200</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CAGR_2019_2023</attrlabl>
+        <attrdef>compound annual growth rate from 2020 to 2024.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>-200</rdommin>
+            <rdommax>200</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NOTES</attrlabl>
+        <attrdef>Additional information for context</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Text with notes about the data.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig11_Pch_Consump_2022_2023.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Mineral_Commodity</attrlabl>
+        <attrdef>Mineral Commodity for which Consumption was estimated</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>USGS Mineral Commodities</codesetn>
+            <codesets>https://www.usgs.gov/centers/national-minerals-information-center/commodity-statistics-and-information</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pch_Critical_Minerals_2022_2023</attrlabl>
+        <attrdef>Change in U.S. Consumption of critical minerals from 2023 to 2024. Critical minerals as published in the Federal Register on February 24, 2022 (87 FR 10381).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+  <edomvd>The mineral commodity is not in the critical mineral list, as published in the Federal Register on February 24, 2022 (87 FR 10381).</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>-200</rdommin>
+            <rdommax>200</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pch_Other_Minerals_2022_2023</attrlabl>
+        <attrdef>Change in U.S. Consumption of mineral commodities not in the critical minerals list, from 2023 to 2024. Critical minerals as published in the Federal Register on February 24, 2022 (87 FR 10381).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+  <edomvd>The mineral commodity is in the critical mineral list, as published in the Federal Register on February 24, 2022 (87 FR 10381).</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>-200</rdommin>
+            <rdommax>200</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig12_Pch_Consump_2019_2023.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Mineral_Commodity</attrlabl>
+        <attrdef>Mineral Commodity for which Consumption was estimated&lt;</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>mineral commodities</codesetn>
+            <codesets>https://www.usgs.gov/centers/national-minerals-information-center/commodity-statistics-and-information</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pch_Critical_Minerals_2019_2023</attrlabl>
+        <attrdef>Change in U.S. Consumption of critical minerals from 2020 to 2024. Critical minerals as published in the Federal Register on February 24, 2022 (87 FR 10381)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+  <edomvd>The mineral commodity is not in the critical mineral list, as published in the Federal Register on February 24, 2022 (87 FR 10381)</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>-200</rdommin>
+            <rdommax>200</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pch_Other_Minerals_2019_2023</attrlabl>
+        <attrdef>Change in U.S. Consumption of mineral commodities cot in the critical minerals list, from 2022 to 2023. Critical minerals as published in the Federal Register on February 24, 2022 (87 FR 10381)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+  <edomvd>The mineral commodity is in the critical mineral list, as published in the Federal Register on February 24, 2022 (87 FR 10381)</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin> -200</rdommin>
+            <rdommax>200</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>MCS2025_Fig13_Scrap.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>Source</attrlabl><attrdef>Publication in which the data were published</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>MCS2025</edomv>
+      <edomvd>Mineral Commodity Summaries 2025</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Scrap_type</attrlabl>
+        <attrdef>Mineral Commodity exported, imported, or produced and recycled domestically. An asterisk denotes a critical mineral, and the number in parentheses is the total value of scrap in million dollars.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><codesetd>
+            <codesetn>Mineral Commodities</codesetn>
+            <codesets>USGS National Minerals Information Center</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Year</attrlabl><attrdef>Year for which data were compiled.</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>2024_estimate</edomv>
+      <edomvd>year for which data were compiled</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Scrap_value_mdol</attrlabl>
+        <attrdef>Total value of scrap produced and recycled domestically, imported for recycling, or  exported for recycling</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1000000</rdommax>
+            <attrunit>millions of U.S. dollars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Percent_domestic</attrlabl>
+        <attrdef>percent produced and recycled domestically</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Percent_imported</attrlabl>
+        <attrdef>Percent of scrap imported for recycling</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Percent_exported</attrlabl>
+        <attrdef>Percent of scrap exported for recycling</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Each mineral commodity chapter of the 2025 edition of the U.S. Geological Survey (USGS) Mineral Commodity Summaries (MCS) includes information on events, trends, and issues for each mineral commodity. Additionally, there is introductory material that provides an overview of events, trends, and issues of the mineral industry as a whole. The data used for the tables and figures of this introductory material have been converted to a csv format as part of the Mineral Commodity Summaries 2025 Data Release. Subjects include industry employment and earnings, total mine production, downstream manufacturing production indexes, capacity utilization. Economic data are also provided for industries that use nonfuel mineral commodities, such as housing, vehicle sales, and highway construction. There is a State table showing value and rank for the mineral industries on a geographic basis.Another table provides net import reliance for those mineral commodities for which the United States is the most dependent on a supply of imports. A special critical minerals table provides additional information on U.S and world production and apparent consumption.</eaover>
+      <eadetcit>Companion data for graphs and figures of the introductory material in Mineral Commodity Summaries 2025</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform><digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt><onlinopt><computer><networka><networkr>https://doi.org/10.5066/P13XCP3R</networkr></networka></computer></onlinopt></digtopt></digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20240126</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, National Minerals Information Center</cntorg>
+          <cntper>Robert M Callaghan</cntper>
+        </cntorgp>
+        <cntpos>Physical Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Mail Stop 989, 12201 Sunrise Valley Dr</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>703-648-7709</cntvoice>
+        <cntfax>703-648-7757</cntfax>
+        <cntemail>rcallaghan@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
